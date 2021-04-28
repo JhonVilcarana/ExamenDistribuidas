@@ -1,4 +1,4 @@
-package Ejercicios;
+package Ejercicio2;
 
 public class HiloCliente implements Runnable{
 
