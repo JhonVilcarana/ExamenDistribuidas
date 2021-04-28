@@ -1,4 +1,4 @@
-package Ejercicios2;
+package Ejercicio1;
 
 public class GrandesAlmacenes {
 
